@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+lib/
+vendor/
+
+# Environment variables
+.env
+
+# Production build
+build/
+
+# Database
+*.sqlite
+
+# IDE files
+.vscode/
+.idea/
+
+# Testing
+coverage/
+
+# Config files
+*.config.js
